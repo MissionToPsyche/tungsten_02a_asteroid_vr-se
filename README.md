@@ -25,6 +25,7 @@ This project seeks to offer an educational VR experience of what it might be lik
 |Resolution| Default: 1280| Options in Game Settings Menu:<br>-- 1280<br>-- 1600<br>-- 1920<br>-- 2560<br>-- 3840|
 Graphics|Default: Epic|Options in Game Settings Menu:<br>-- Low<br>-- Medium<br>-- High<br>-- Epic<br>-- Ultra|
 <br>
+
 ## VR Game Play
 Upon selecting 'Enter Psyche' from the starting menu lobby, the player will begin near the landing craft and an interactive widget about the Psyche Mission. The player can walk around and explore the surface of the asteroid.<br><br>On their own, they may find the other Info Points, or they can press 'A' (on Occulus, or its equivalent on other headsets) to bring up the pause menu. Selecting the Teleport button will open a menu with options to teleport to a specific zone.
 - Psyche Info Zone
